@@ -1,0 +1,48 @@
+{
+	"test_001": {
+		"url": "https://aliae.apexglobe.info/aliapi/webapi/OrderNotify/AliOrderNotify",
+		"sign": "HyixAMNtSXEw4260t43RospI/xiDQldy2Xlou+KSJC7WYI1VkaFoOD7Z4TnM+nBMoT30a5QY2x0vOFQ+S9kCUWGkr92CzFvaqPXoMadwu0iFXq3FdThJLcqONvTyo/kqChcgdDicoybevYw8S3NefWLWqy1B4k6JM+XlipyVtt4DrnktJsEdZZBVAGELQ+BXU/kb43samIjcVL3FXZdH4oTDhYtF8G38YI+UCmaGo8RhVj0LYZVfGtwponUDZQZYAwPu+Im9HaXiwuJ6fv5c+dxiIX1ZhBebewG11lkp+QBI0CwrVI2txPJlHdpxkUxsFds6T+0278T01o143tKAfQ==",
+		"appkey": "962333",
+		"request": {
+			"aliOrderNo": "2531471592252",
+			"notifyInfoCode": "DECLARATION_FILES_NOTIFY",
+			"notifyEventTime": "2021-07-20T13:13:02+0800",
+			"content": [{
+					"fileType": "TAX_FILE",
+					"fileName": "taxFileForDeclaration",
+					"fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+					"remark": ""
+				},
+				{
+					"fileType": "TAX_FILE",
+					"fileName": "taxFileForDeclaration",
+					"fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+					"remark": ""
+				}
+			]
+		}
+	},
+  "test_002": {
+		"url": "https://aliae.apexglobe.info/aliapi/webapi/OrderNotify/AliOrderNotify",
+		"sign": "HyixAMNtSXEw4260t43RospI/xiDQldy2Xlou+KSJC7WYI1VkaFoOD7Z4TnM+nBMoT30a5QY2x0vOFQ+S9kCUWGkr92CzFvaqPXoMadwu0iFXq3FdThJLcqONvTyo/kqChcgdDicoybevYw8S3NefWLWqy1B4k6JM+XlipyVtt4DrnktJsEdZZBVAGELQ+BXU/kb43samIjcVL3FXZdH4oTDhYtF8G38YI+UCmaGo8RhVj0LYZVfGtwponUDZQZYAwPu+Im9HaXiwuJ6fv5c+dxiIX1ZhBebewG11lkp+QBI0CwrVI2txPJlHdpxkUxsFds6T+0278T01o143tKAfQ==",
+		"appkey": "962333",
+		"request": {
+			"aliOrderNo": "2531471592263",
+			"notifyInfoCode": "DECLARATION_FILES_NOTIFY",
+			"notifyEventTime": "2023-07-20T13:13:02+0800",
+			"content": [{
+					"fileType": "TAX_FILE",
+					"fileName": "taxFileForDeclaration",
+					"fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+					"remark": ""
+				},
+				{
+					"fileType": "TAX_FILE",
+					"fileName": "taxFileForDeclaration",
+					"fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+					"remark": ""
+				}
+			]
+		}
+	}
+}

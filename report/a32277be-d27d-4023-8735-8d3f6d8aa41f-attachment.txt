@@ -1,0 +1,5 @@
+INFO     root:test_request.py:52 开始新一轮测试!
+INFO     root:test_request.py:106 接口访问失败!
+INFO     root:test_request.py:52 开始新一轮测试!
+INFO     root:test_request.py:106 接口访问失败!
+INFO     root:test_request.py:17 测试结束后进行数据库写入的 脏数据擦除!

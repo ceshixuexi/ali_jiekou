@@ -1,0 +1,11 @@
+[ {
+  "uid" : "4ca345fbb6c1293a",
+  "name" : "test_request_declartion",
+  "time" : {
+    "start" : 1650008970032,
+    "stop" : 1650008971945,
+    "duration" : 1913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

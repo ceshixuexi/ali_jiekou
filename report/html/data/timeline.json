@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-20210819",
+    "children" : [ {
+      "name" : "17088-MainThread",
+      "children" : [ {
+        "name" : "test_request_declartion",
+        "uid" : "4ca345fbb6c1293a",
+        "parentUid" : "d5f70ca7a6970737c3e8deaf8db40dfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650008970032,
+          "stop" : 1650008971945,
+          "duration" : 1913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5f70ca7a6970737c3e8deaf8db40dfc"
+    } ],
+    "uid" : "58dc76b156fd93bb2272573388e8a376"
+  } ]
+}

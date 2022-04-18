@@ -1,0 +1,22 @@
+{
+  "test_001": {
+
+    "aliOrderNo": "1531471592262",
+    "notifyInfoCode": "DECLARATION_FILES_NOTIFY",
+    "notifyEventTime": "2021-07-20T13:13:02+0800",
+    "content": [
+      {
+        "fileType": "TAX_FILE",
+        "fileName": "taxFileForDeclaration",
+        "fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+        "remark": ""
+      },
+      {
+        "fileType": "TAX_FILE",
+        "fileName": "taxFileForDeclaration",
+        "fileUrl": "https://ae01.alicdn.com/kf/UT8ot5bXbtaXXbyTXbXg.xml",
+        "remark": ""
+      }
+    ]
+  }
+}
